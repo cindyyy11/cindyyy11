@@ -17,21 +17,6 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 🚀 **Software Engineer** with a passion for creating user-centric, intuitive, and performant web applications. I specialize in **Frontend Development** using modern JavaScript frameworks like React, and am currently expanding my skillset to **Full-Stack Development**, **Cloud Technologies**, and **Microservices**. I'm deeply committed to learning and growing in the tech world and am always seeking new challenges. <br/>
-<br/>
-🎓Education: <br/>
-- **Software Engineering** at [Asia Pacific University of Technology and Innovation (APU)](https://www.apu.edu.my/)<br/>
-
-<br/>
-
-🌱 Currently Learning: <br/>
-- Cloud Computing (AWS, Azure, GCP)
-- Microservices Architecture and DevOps practices
-- GraphQL and Serverless Architectures  <br/>
-
-<br/>
-
-⚡ Fun fact: <br/>
-- I didn't always love software engineering—initially, I wasn't passionate about it. But after discovering the impact that technology can have on people's lives, I became deeply inspired to pursue it further. Now, I can't imagine doing anything else! 😊 <br/>
 
 <br/>
 
