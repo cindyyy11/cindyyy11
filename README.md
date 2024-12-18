@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Cindy Pua</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">A passionate software developer from Malaysia</h3>
 
 🚀 **Software Engineer** with a passion for creating user-centric, intuitive, and performant web applications. I specialize in **Frontend Development** using modern JavaScript frameworks like React, and am currently expanding my skillset to **Full-Stack Development**, **Cloud Technologies**, and **Microservices**. I'm deeply committed to learning and growing in the tech world and am always seeking new challenges. <br/>
 
