@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - Learning **new technologies** and **improving my coding skills** 
 - Exploring **full-stack opportunities** and **cloud-related roles**<br/>
 <br/>
-📫 How to reach me **cindypua115@gmail.com** <br/>
+📫 How to reach me cindypua115@gmail.com <br/>
 
 <br/>
 
